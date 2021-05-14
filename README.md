@@ -10,3 +10,4 @@ A full-stack food order app using React JS, based on Schwarzmüller's course.
 * Props and other data handling.
 * Practicing React hooks. 
 * Obligatory, basically.
+* Practice React Fragments and Portals. 
